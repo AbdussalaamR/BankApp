@@ -1,0 +1,32 @@
+C:\Users\HP\Documents\CodeLearnersHub\StockManageApp\bin\Debug\net5.0\StockManageApp.exe
+C:\Users\HP\Documents\CodeLearnersHub\StockManageApp\bin\Debug\net5.0\StockManageApp.deps.json
+C:\Users\HP\Documents\CodeLearnersHub\StockManageApp\bin\Debug\net5.0\StockManageApp.runtimeconfig.json
+C:\Users\HP\Documents\CodeLearnersHub\StockManageApp\bin\Debug\net5.0\StockManageApp.runtimeconfig.dev.json
+C:\Users\HP\Documents\CodeLearnersHub\StockManageApp\bin\Debug\net5.0\StockManageApp.dll
+C:\Users\HP\Documents\CodeLearnersHub\StockManageApp\bin\Debug\net5.0\ref\StockManageApp.dll
+C:\Users\HP\Documents\CodeLearnersHub\StockManageApp\bin\Debug\net5.0\StockManageApp.pdb
+C:\Users\HP\Documents\CodeLearnersHub\StockManageApp\obj\Debug\net5.0\StockManageApp.csprojAssemblyReference.cache
+C:\Users\HP\Documents\CodeLearnersHub\StockManageApp\obj\Debug\net5.0\StockManageApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\CodeLearnersHub\StockManageApp\obj\Debug\net5.0\StockManageApp.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\CodeLearnersHub\StockManageApp\obj\Debug\net5.0\StockManageApp.AssemblyInfo.cs
+C:\Users\HP\Documents\CodeLearnersHub\StockManageApp\obj\Debug\net5.0\StockManageApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\CodeLearnersHub\StockManageApp\obj\Debug\net5.0\StockManageApp.dll
+C:\Users\HP\Documents\CodeLearnersHub\StockManageApp\obj\Debug\net5.0\ref\StockManageApp.dll
+C:\Users\HP\Documents\CodeLearnersHub\StockManageApp\obj\Debug\net5.0\StockManageApp.pdb
+C:\Users\HP\Documents\CodeLearnersHub\StockManageApp\obj\Debug\net5.0\StockManageApp.genruntimeconfig.cache
+C:\Users\HP\Documents\CodeLearnersHub\BankApp Abdussalaam\bin\Debug\net5.0\StockManageApp.exe
+C:\Users\HP\Documents\CodeLearnersHub\BankApp Abdussalaam\bin\Debug\net5.0\StockManageApp.deps.json
+C:\Users\HP\Documents\CodeLearnersHub\BankApp Abdussalaam\bin\Debug\net5.0\StockManageApp.runtimeconfig.json
+C:\Users\HP\Documents\CodeLearnersHub\BankApp Abdussalaam\bin\Debug\net5.0\StockManageApp.runtimeconfig.dev.json
+C:\Users\HP\Documents\CodeLearnersHub\BankApp Abdussalaam\bin\Debug\net5.0\StockManageApp.dll
+C:\Users\HP\Documents\CodeLearnersHub\BankApp Abdussalaam\bin\Debug\net5.0\ref\StockManageApp.dll
+C:\Users\HP\Documents\CodeLearnersHub\BankApp Abdussalaam\bin\Debug\net5.0\StockManageApp.pdb
+C:\Users\HP\Documents\CodeLearnersHub\BankApp Abdussalaam\obj\Debug\net5.0\StockManageApp.csprojAssemblyReference.cache
+C:\Users\HP\Documents\CodeLearnersHub\BankApp Abdussalaam\obj\Debug\net5.0\StockManageApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\CodeLearnersHub\BankApp Abdussalaam\obj\Debug\net5.0\StockManageApp.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\CodeLearnersHub\BankApp Abdussalaam\obj\Debug\net5.0\StockManageApp.AssemblyInfo.cs
+C:\Users\HP\Documents\CodeLearnersHub\BankApp Abdussalaam\obj\Debug\net5.0\StockManageApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\CodeLearnersHub\BankApp Abdussalaam\obj\Debug\net5.0\StockManageApp.dll
+C:\Users\HP\Documents\CodeLearnersHub\BankApp Abdussalaam\obj\Debug\net5.0\ref\StockManageApp.dll
+C:\Users\HP\Documents\CodeLearnersHub\BankApp Abdussalaam\obj\Debug\net5.0\StockManageApp.pdb
+C:\Users\HP\Documents\CodeLearnersHub\BankApp Abdussalaam\obj\Debug\net5.0\StockManageApp.genruntimeconfig.cache
