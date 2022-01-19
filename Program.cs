@@ -61,6 +61,7 @@ namespace StockManageApp
                 break;
                 case "9":
                 Customer.CheckBalance();
+                Main();
                 break;
                 default:
                 Console.WriteLine("Invalid input! Enter the correct option that matches what you want to do");
